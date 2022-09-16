@@ -1,0 +1,3 @@
+This is advanced coding for AI
+If I ace this course, I will be prepared for a data science interview.
+I'd better study hard!
