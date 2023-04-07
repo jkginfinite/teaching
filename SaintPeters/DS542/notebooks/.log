@@ -1,0 +1,39 @@
+2023-04-04 20:32:40,899 [7237] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-04-04 20:32:40,900 [7237] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-04-04 20:32:40,900 [7237] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-04-04 20:32:40,901 [7237] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-04-04 20:32:40,901 [7237] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-04-04 20:32:40,901 [7237] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-04-04 20:32:42,894 [7237] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-04-04 20:32:43,134 [7237] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-04-04 20:32:43,135 [7237] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-04-04 20:32:43,136 [7237] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-04-04 20:32:43,136 [7237] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-04-04 20:32:58,221 [7250] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-04-04 20:32:58,221 [7250] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-04-04 20:32:58,222 [7250] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-04-04 20:32:58,223 [7250] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-04-04 20:32:58,223 [7250] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-04-04 20:32:58,223 [7250] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-04-04 20:32:59,948 [7250] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-04-04 20:33:00,081 [7250] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-04-04 20:33:00,082 [7250] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-04-04 20:33:00,082 [7250] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-04-04 20:33:00,082 [7250] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-04-04 20:50:57,898 [7290] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-04-04 20:50:57,898 [7290] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-04-04 20:50:57,898 [7290] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-04-04 20:50:57,900 [7290] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-04-04 20:50:57,900 [7290] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-04-04 20:50:57,900 [7290] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-04-04 20:50:59,608 [7290] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-04-04 20:50:59,737 [7290] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-04-04 20:50:59,738 [7290] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-04-04 20:50:59,738 [7290] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-04-04 20:50:59,739 [7290] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
