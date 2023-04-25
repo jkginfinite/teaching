@@ -49,3 +49,16 @@
 2023-04-05 18:53:03,392 [4823] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-04-05 18:53:03,392 [4823] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-04-05 18:53:03,392 [4823] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-04-24 21:36:40,957 [11026] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-04-24 21:36:40,957 [11026] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-04-24 21:36:40,957 [11026] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-04-24 21:36:40,958 [11026] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-04-24 21:36:40,959 [11026] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-04-24 21:36:40,959 [11026] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-04-24 21:36:42,852 [11026] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-04-24 21:36:43,019 [11026] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-04-24 21:36:43,020 [11026] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-04-24 21:36:43,020 [11026] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-04-24 21:36:43,021 [11026] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
