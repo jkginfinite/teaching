@@ -1045,3 +1045,189 @@ since Python 3.9 and will be removed in a subsequent version.
 2023-05-22 07:54:54,030 [1009] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
 2023-05-22 07:54:54,031 [1009] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
 2023-05-22 07:54:54,031 [1009] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-05-24 20:27:47,461 [15715] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-24 20:27:47,462 [15715] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-24 20:27:47,462 [15715] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-24 20:27:47,463 [15715] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-24 20:27:47,463 [15715] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-24 20:27:47,463 [15715] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-24 20:27:49,367 [15715] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-05-24 20:27:49,559 [15715] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-05-24 20:27:49,560 [15715] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-05-24 20:27:49,561 [15715] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-05-24 20:27:49,562 [15715] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-05-24 20:48:36,311 [15715] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-24 20:48:36,311 [15715] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-24 20:48:36,311 [15715] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-24 20:48:36,315 [15715] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-24 20:48:36,315 [15715] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-24 20:48:36,315 [15715] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-25 17:11:16,732 [3857] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-25 17:11:16,733 [3857] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-25 17:11:16,733 [3857] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-25 17:11:16,734 [3857] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-25 17:11:16,734 [3857] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-25 17:11:16,734 [3857] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-25 17:11:18,713 [3857] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-05-25 17:11:18,926 [3857] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-05-25 17:11:18,927 [3857] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-05-25 17:11:18,927 [3857] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-05-25 17:11:18,928 [3857] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-05-25 19:02:38,806 [3857] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-25 19:02:38,806 [3857] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-25 19:02:38,806 [3857] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-25 19:02:38,808 [3857] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-25 19:02:38,808 [3857] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-25 19:02:38,809 [3857] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-27 18:11:54,089 [2952] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-27 18:11:54,089 [2952] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-27 18:11:54,089 [2952] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-27 18:11:54,090 [2952] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-27 18:11:54,091 [2952] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-27 18:11:54,091 [2952] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-27 18:11:56,075 [2952] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-05-27 18:11:56,290 [2952] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-05-27 18:11:56,291 [2952] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-05-27 18:11:56,292 [2952] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-05-27 18:11:56,293 [2952] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-05-27 18:31:37,021 [2952] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-27 18:31:37,021 [2952] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-27 18:31:37,021 [2952] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-27 18:31:37,023 [2952] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-27 18:31:37,024 [2952] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-27 18:31:37,024 [2952] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-27 19:14:55,485 [2952] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-05-27 19:14:55,510 [2952] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-05-27 19:14:57,939 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 19:14:57,942 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 7
+2023-05-27 19:14:57,942 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:6] new[1:6]
+2023-05-27 19:14:57,943 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:6] new[1:6]
+2023-05-27 19:14:57,943 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[7:7] new[7:7]
+2023-05-27 19:14:57,944 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 7 to 7 (to 6 in part parser)
+2023-05-27 19:14:57,944 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 19:14:57,977 [2952] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/anaconda3/lib/python3.9/typing.py
+2023-05-27 19:14:57,991 [2952] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2023-05-27 19:14:58,006 [2952] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/.local/lib/python3.9/site-packages/nltk/__init__.py
+2023-05-27 19:14:58,007 [2952] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/.local/lib/python3.9/site-packages/nltk/tokenize/__init__.py
+2023-05-27 19:14:58,470 [2952] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/.local/lib/python3.9/site-packages/nltk/sem/__init__.py
+2023-05-27 19:14:58,740 [2952] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/.local/lib/python3.9/site-packages/nltk/grammar.py
+2023-05-27 19:15:03,260 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 19:15:03,261 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 7
+2023-05-27 19:15:03,261 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:6] new[1:6]
+2023-05-27 19:15:03,261 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:6] new[1:6]
+2023-05-27 19:15:03,262 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[7:7] new[7:7]
+2023-05-27 19:15:03,263 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 7 to 7 (to 6 in part parser)
+2023-05-27 19:15:03,263 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 19:17:44,195 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 19:17:44,196 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 1
+2023-05-27 19:17:44,197 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:7] new[1:1]
+2023-05-27 19:17:44,197 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-05-27 19:17:44,198 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 19:44:01,156 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 19:44:01,159 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 8
+2023-05-27 19:44:01,159 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:1] new[1:8]
+2023-05-27 19:44:01,162 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 8 (to 7 in part parser)
+2023-05-27 19:44:01,163 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:11:09,163 [3673] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-27 20:11:09,163 [3673] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-27 20:11:09,163 [3673] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-27 20:11:09,164 [3673] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-27 20:11:09,165 [3673] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-27 20:11:09,165 [3673] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-27 20:11:11,098 [3673] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-05-27 20:11:11,299 [3673] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-05-27 20:11:11,300 [3673] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-05-27 20:11:11,300 [3673] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-05-27 20:11:11,301 [3673] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-05-27 20:29:23,277 [2952] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-27 20:29:23,278 [2952] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-27 20:29:23,278 [2952] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-27 20:29:23,280 [2952] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-27 20:29:23,280 [2952] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-27 20:29:23,280 [2952] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-27 20:29:25,065 [3673] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-05-27 20:29:25,065 [3673] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-05-27 20:29:25,065 [3673] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-05-27 20:29:25,068 [3673] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-05-27 20:29:25,069 [3673] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-05-27 20:29:25,069 [3673] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-05-27 20:41:34,102 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:41:34,103 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 8; new: 24
+2023-05-27 20:41:34,103 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2023-05-27 20:41:34,103 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 2 (to 3 in part parser)
+2023-05-27 20:41:34,103 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[2:2] new[3:3]
+2023-05-27 20:41:34,106 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 3 to 22 (to 23 in part parser)
+2023-05-27 20:41:34,106 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[3:8] new[4:24]
+2023-05-27 20:41:34,106 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 23 to 24 (to 23 in part parser)
+2023-05-27 20:41:34,107 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:41:36,480 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:41:36,481 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 24; new: 24
+2023-05-27 20:41:36,481 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:23] new[1:23]
+2023-05-27 20:41:36,482 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:22] new[1:22]
+2023-05-27 20:41:36,484 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 23 to 23 (to 23 in part parser)
+2023-05-27 20:41:36,484 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[24:24] new[24:24]
+2023-05-27 20:41:36,485 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 24 to 24 (to 23 in part parser)
+2023-05-27 20:41:36,485 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:41:36,735 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:41:36,736 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 24; new: 24
+2023-05-27 20:41:36,737 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:23] new[1:23]
+2023-05-27 20:41:36,738 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:22] new[1:22]
+2023-05-27 20:41:36,738 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 23 to 23 (to 23 in part parser)
+2023-05-27 20:41:36,739 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[24:24] new[24:24]
+2023-05-27 20:41:36,741 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 24 to 24 (to 23 in part parser)
+2023-05-27 20:41:36,742 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:41:38,578 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:41:38,580 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 24; new: 24
+2023-05-27 20:41:38,580 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:23] new[1:23]
+2023-05-27 20:41:38,581 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:22] new[1:22]
+2023-05-27 20:41:38,582 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 23 to 23 (to 23 in part parser)
+2023-05-27 20:41:38,588 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[24:24] new[24:24]
+2023-05-27 20:41:38,590 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 24 to 24 (to 23 in part parser)
+2023-05-27 20:41:38,590 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:41:38,865 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:41:38,866 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 24; new: 24
+2023-05-27 20:41:38,867 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:23] new[1:23]
+2023-05-27 20:41:38,868 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:22] new[1:22]
+2023-05-27 20:41:38,870 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 23 to 23 (to 23 in part parser)
+2023-05-27 20:41:38,871 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[24:24] new[24:24]
+2023-05-27 20:41:38,872 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 24 to 24 (to 23 in part parser)
+2023-05-27 20:41:38,872 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:41:39,126 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:41:39,127 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 24; new: 24
+2023-05-27 20:41:39,128 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:23] new[1:23]
+2023-05-27 20:41:39,128 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:22] new[1:22]
+2023-05-27 20:41:39,129 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 23 to 23 (to 23 in part parser)
+2023-05-27 20:41:39,130 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[24:24] new[24:24]
+2023-05-27 20:41:39,131 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 24 to 24 (to 23 in part parser)
+2023-05-27 20:41:39,131 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:41:39,434 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:41:39,435 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 24; new: 24
+2023-05-27 20:41:39,435 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:23] new[1:23]
+2023-05-27 20:41:39,436 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:22] new[1:22]
+2023-05-27 20:41:39,437 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 23 to 23 (to 23 in part parser)
+2023-05-27 20:41:39,437 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[24:24] new[24:24]
+2023-05-27 20:41:39,438 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 24 to 24 (to 23 in part parser)
+2023-05-27 20:41:39,438 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:43:13,504 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:43:13,505 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 24; new: 25
+2023-05-27 20:43:13,505 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:23] new[1:23]
+2023-05-27 20:43:13,506 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:22] new[1:22]
+2023-05-27 20:43:13,508 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 23 to 23 (to 23 in part parser)
+2023-05-27 20:43:13,509 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[24:24] new[24:25]
+2023-05-27 20:43:13,510 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 24 to 25 (to 24 in part parser)
+2023-05-27 20:43:13,511 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-27 20:43:33,998 [2952] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-27 20:43:34,000 [2952] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 25; new: 25
+2023-05-27 20:43:34,001 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:24] new[1:24]
+2023-05-27 20:43:34,002 [2952] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:24] new[1:24]
+2023-05-27 20:43:34,002 [2952] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[25:25] new[25:25]
+2023-05-27 20:43:34,004 [2952] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 25 to 25 (to 24 in part parser)
+2023-05-27 20:43:34,005 [2952] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
