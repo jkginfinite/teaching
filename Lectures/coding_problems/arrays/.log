@@ -235,3 +235,134 @@
 2023-07-02 22:06:03,537 [4562] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
 2023-07-02 22:06:03,538 [4562] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
 2023-07-02 22:06:03,539 [4562] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-09-08 13:51:47,278 [2190] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-08 13:51:47,279 [2190] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-08 13:51:47,279 [2190] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-08 13:51:47,280 [2190] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-08 13:51:47,280 [2190] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-08 13:51:47,280 [2190] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-08 13:51:49,419 [2190] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-09-08 13:51:49,631 [2190] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-09-08 13:51:49,632 [2190] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-09-08 13:51:49,632 [2190] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-09-08 13:51:49,633 [2190] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-09-08 14:58:02,285 [2190] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-08 14:58:02,285 [2190] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-08 14:58:02,286 [2190] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-08 14:58:02,288 [2190] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-08 14:58:02,289 [2190] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-08 14:58:02,289 [2190] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-08 15:07:38,403 [2190] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-08 15:07:38,404 [2190] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-08 15:07:38,404 [2190] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-08 15:07:38,406 [2190] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-08 15:07:38,407 [2190] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-08 15:07:38,407 [2190] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-08 16:06:54,515 [2190] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-08 16:06:54,515 [2190] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-08 16:06:54,516 [2190] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-08 16:06:54,518 [2190] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-08 16:06:54,519 [2190] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-08 16:06:54,519 [2190] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-08 16:17:04,976 [2190] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-08 16:17:04,977 [2190] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-08 16:17:04,977 [2190] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-08 16:17:04,979 [2190] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-08 16:17:04,979 [2190] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-08 16:17:04,980 [2190] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-08 16:49:30,327 [2190] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-08 16:49:30,327 [2190] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-08 16:49:30,327 [2190] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-08 16:49:30,330 [2190] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-08 16:49:30,330 [2190] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-08 16:49:30,331 [2190] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-08 19:43:09,953 [2190] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-08 19:43:09,953 [2190] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-08 19:43:09,953 [2190] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-08 19:43:09,956 [2190] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-08 19:43:09,957 [2190] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-08 19:43:09,957 [2190] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-08 21:44:27,089 [2190] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-08 21:44:27,090 [2190] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-08 21:44:27,090 [2190] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-08 21:44:27,092 [2190] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-08 21:44:27,093 [2190] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-08 21:44:27,093 [2190] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 13:31:58,309 [6460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 13:31:58,309 [6460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 13:31:58,309 [6460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 13:31:58,310 [6460] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 13:31:58,311 [6460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 13:31:58,311 [6460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 13:32:00,285 [6460] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-09-09 13:32:00,502 [6460] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-09-09 13:32:00,503 [6460] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-09-09 13:32:00,504 [6460] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-09-09 13:32:00,504 [6460] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-09-09 13:46:32,885 [6460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 13:46:32,885 [6460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 13:46:32,885 [6460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 13:46:32,888 [6460] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 13:46:32,889 [6460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 13:46:32,889 [6460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 14:39:34,108 [6641] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 14:39:34,109 [6641] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 14:39:34,109 [6641] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 14:39:34,110 [6641] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 14:39:34,111 [6641] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 14:39:34,111 [6641] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 14:39:35,979 [6641] WARNING  py.warnings:109: [JupyterRequire] /Users/teaching/anaconda3/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+2023-09-09 14:39:36,160 [6641] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2023-09-09 14:39:36,161 [6641] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2023-09-09 14:39:36,161 [6641] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2023-09-09 14:39:36,162 [6641] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2023-09-09 15:08:25,239 [6641] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 15:08:25,239 [6641] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 15:08:25,239 [6641] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 15:08:25,242 [6641] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 15:08:25,243 [6641] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 15:08:25,243 [6641] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 15:08:26,000 [6460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 15:08:26,000 [6460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 15:08:26,000 [6460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 15:08:26,003 [6460] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 15:08:26,003 [6460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 15:08:26,004 [6460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 16:19:25,250 [6641] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 16:19:25,250 [6641] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 16:19:25,250 [6641] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 16:19:25,251 [6641] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 16:19:25,252 [6641] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 16:19:25,252 [6641] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 16:19:25,260 [6460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 16:19:25,260 [6460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 16:19:25,260 [6460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 16:19:25,261 [6460] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 16:19:25,262 [6460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 16:19:25,262 [6460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 17:53:17,333 [6641] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 17:53:17,334 [6641] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 17:53:17,334 [6641] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 17:53:17,336 [6641] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 17:53:17,336 [6641] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 17:53:17,337 [6641] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 17:53:17,346 [6460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 17:53:17,346 [6460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 17:53:17,346 [6460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 17:53:17,348 [6460] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 17:53:17,348 [6460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 17:53:17,348 [6460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 19:11:51,141 [6641] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-09 19:11:51,142 [6641] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-09 19:11:51,142 [6641] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-09 19:11:51,147 [6641] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-09 19:11:51,148 [6641] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-09 19:11:51,148 [6641] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-09 19:13:26,568 [6641] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-09-09 19:13:26,592 [6641] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /Users/teaching/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
